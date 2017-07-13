@@ -1,0 +1,7 @@
+version: "Apple Swift version 3.0.2 (swiftlang-800.0.63 clang-800.0.42.1)"
+options: "aa47696dfea9cf040a74295e8e8e15a2"
+build_time: [553282026, 498697000]
+inputs:
+  "/Users/rdeshmu/iphone_workspace/Hacking With Swift Projects/ImageViewer/ImageViewer/ImageViewer/DetailViewController.swift": [553281874, 0]
+  "/Users/rdeshmu/iphone_workspace/Hacking With Swift Projects/ImageViewer/ImageViewer/ImageViewer/ViewController.swift": [553282025, 0]
+  "/Users/rdeshmu/iphone_workspace/Hacking With Swift Projects/ImageViewer/ImageViewer/ImageViewer/AppDelegate.swift": [553281732, 0]
